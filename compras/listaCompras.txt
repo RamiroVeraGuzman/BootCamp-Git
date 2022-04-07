@@ -1,4 +1,4 @@
-Leche
+Leche Descremada
 Pan
 Lechuga
 Tomate
@@ -7,3 +7,4 @@ Queso Cremoso
 Naranjas
 Agua
 Pola
+Papas Fritas
