@@ -4,8 +4,7 @@ Lechuga
 Tomate
 Cebolla
 Queso Cremoso
-Naranjas
-Pola
-Papas Fritas
-Gaseosa
-Pochoclo
+Huevos
+Harina
+Aceite
+Vinagre
